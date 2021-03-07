@@ -6,4 +6,4 @@
 **Notes**: 
 - A very... talkative little gnome
 ## Locations
-[[Arduth]] | [[Kahosta Estate]] | [[Glitchywicket House]]
+[[Adelgate]] | [[Kahosta Estate]] | [[Glitchywicket House]]

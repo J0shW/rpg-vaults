@@ -6,4 +6,4 @@
 **Notes**: 
 - A very studious Orc Wizard
 ## Locations
-[[Arduth]] | [[Kahosta Estate]] | [[Kerrang]]
+[[Adelgate]] | [[Kahosta Estate]] | [[Kerrang]]

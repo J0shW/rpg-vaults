@@ -7,5 +7,5 @@
 **Notes**: 
 - Blacksmith in Arduth.
 ## Locations
-[[Arduth]] | [[The Forge]]
+[[Adelgate]] | [[The Forge]]
 

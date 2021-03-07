@@ -6,4 +6,4 @@
 **Notes**: 
 - The coolest gnome in all the land.
 ## Locations
-[[Arduth]] | [[Kahosta Estate]] | [[Kerrang]]
+[[Adelgate]] | [[Kahosta Estate]] | [[Kerrang]]

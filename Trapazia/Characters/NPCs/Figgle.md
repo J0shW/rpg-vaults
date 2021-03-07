@@ -7,4 +7,4 @@
 **Notes**: 
 - The sister of [[Bobble]]
 ## Locations
-[[Arduth]] | [[Glitchywicket House]]
+[[Adelgate]] | [[Glitchywicket House]]

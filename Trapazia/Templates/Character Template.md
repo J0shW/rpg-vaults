@@ -7,4 +7,4 @@
 **Notes**: 
 - 
 ## Locations
-[[Adelgate]]]
+[[Locations/Adelgate]]]

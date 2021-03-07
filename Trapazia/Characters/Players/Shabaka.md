@@ -6,4 +6,4 @@
 **Notes**: 
 - A friendly winged man.
 ## Location
-[[Arduth]] | [[Kahosta Estate]]
+[[Adelgate]] | [[Kahosta Estate]]

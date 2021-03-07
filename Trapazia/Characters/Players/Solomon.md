@@ -6,4 +6,4 @@
 **Notes**: 
 - A very righteous little Kenku.
 ## Locations
-[[Arduth]] | [[Kahosta Estate]]
+[[Adelgate]] | [[Kahosta Estate]]

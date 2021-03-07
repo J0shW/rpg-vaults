@@ -6,6 +6,6 @@ tags: #session
 
 ### The Failed Hangings
 
-Three people are set to be hanged in [[Adelgate]]
+Three people are set to be hanged in [[Locations/Adelgate]]
 
 ---
