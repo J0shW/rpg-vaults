@@ -2,6 +2,10 @@
 
 The continent on which the campaign takes place.
 
+## General Info
+[[Calendar]]
+[[Deities]]
+
 ## Major Cities (>25,000)
 [[Adelgate]]
 [[Maldobrine]]
