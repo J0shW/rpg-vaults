@@ -8,3 +8,6 @@
 **Ambiance**: Peaceful, upper class
  **Population**: 6,000
  **Populace**: Assortment of races
+ 
+---
+tags: #location, #city

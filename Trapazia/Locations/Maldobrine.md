@@ -9,7 +9,9 @@
 **Main Visitation**: Travelers in search of work    
 **Main resource**: Wood, Peat, Fish
     
-
 ## Government & Defense
 -   Kaleeri Royal Family  
 -   Scaled Guard
+
+---
+tags: #location, #city

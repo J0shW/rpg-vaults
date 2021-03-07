@@ -15,3 +15,6 @@
 ## Government & Defense
 -   No formal government, all legislature is put forth by citizens and passed via unanimous vote
 -   The Auditors
+
+---
+tags: #location, #city
