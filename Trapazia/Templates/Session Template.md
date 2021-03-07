@@ -1,7 +1,6 @@
 # Session: February 28, 2021
-tags: #session
-
 ---
+
 ## 3rd of Birth
 
 ### The Failed Hangings
@@ -9,3 +8,5 @@ tags: #session
 Three people are set to be hanged in [[Locations/Adelgate]]
 
 ---
+
+tags: #session
