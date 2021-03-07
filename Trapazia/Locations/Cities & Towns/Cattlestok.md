@@ -9,4 +9,4 @@
 **Populace**: Assortment of races
 
 ---
-tags: #location, #city
+tags: #location, #city, #town

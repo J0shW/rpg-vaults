@@ -8,3 +8,6 @@ An organization in Adelgate that publishes written media for the city and beyond
 
 ## People
 - Boss: [[Lionel]]
+
+---
+tags: #location, #building

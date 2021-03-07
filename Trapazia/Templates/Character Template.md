@@ -1,5 +1,5 @@
 # `fas:User` Name
-#npc
+---
 
 ## Description
 **Race**: 
@@ -8,3 +8,6 @@
 - 
 ## Locations
 [[Adelgate]]
+
+---
+tags: #character, #npc
