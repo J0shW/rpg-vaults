@@ -5,6 +5,7 @@ The continent on which the campaign takes place.
 ## General Info
 [[Calendar]]
 [[Deities]]
+**Map**: View Image on [Google Drive](https://drive.google.com/file/d/133BseNgunYXidJLuRG4tloIhBZirJefT/view?usp=sharing)
 
 ## Major Cities (>25,000)
 [[Adelgate]]

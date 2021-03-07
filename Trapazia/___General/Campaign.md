@@ -1,7 +1,13 @@
 # `fas:Map` Campaign
 ---
 
+**Setting**: [[Trapazia]]
+**Players**: [[Player Characters]]
+
 Our story takes place on the continent of [[Trapazia]] and follows the adventures of our [[Player Characters]].
+
+## The Continent of Trapazia
+**Map**: View Image on [Google Drive](https://drive.google.com/file/d/133BseNgunYXidJLuRG4tloIhBZirJefT/view?usp=sharing)
 
 ## General Info
 [[Calendar]]
