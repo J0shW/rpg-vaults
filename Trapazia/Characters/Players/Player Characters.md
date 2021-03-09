@@ -1,7 +1,8 @@
 # `fas:Users` Player Characters
+---
 
-The adventuring party that drive the narrative.
+## Resources
+[Magical Inventory](https://docs.google.com/document/d/1JVx3Fq6hSXdSj56YoWGIu0EDFLSwflOb/edit#heading=h.z337ya)
 
 ## Members
-
-1. [[Jasper]]
+- [[Jasper]]

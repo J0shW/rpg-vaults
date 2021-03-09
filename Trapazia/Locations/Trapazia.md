@@ -5,7 +5,8 @@ The continent on which the campaign takes place.
 ## General Info
 [[Calendar]]
 [[Deities]]
-[**View Map**](https://drive.google.com/file/d/133BseNgunYXidJLuRG4tloIhBZirJefT/view?usp=sharing)
+[[Province of Trapazia.png | Trapazia Map]]
+[**View Map Online**](https://drive.google.com/file/d/133BseNgunYXidJLuRG4tloIhBZirJefT/view?usp=sharing)
 
 ## Cities & Towns
 ### Major Cities (>25,000)
