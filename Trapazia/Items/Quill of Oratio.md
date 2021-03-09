@@ -2,7 +2,8 @@
 ---
 
 ## Description
-- 
+- Let's the user cast some spells
+
 ## Owner
 [[Jasper]]
 
