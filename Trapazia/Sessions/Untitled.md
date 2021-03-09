@@ -10,8 +10,6 @@ Everyone is talking about Harper in [[Fazerithein]].
 
 Eliza invites Harper and Izan to [[Nadia Biz]]’s show tomorrow night.
 
-  
-
 Harper goes to the Traveller’s Bazaar, which is a mess  of shops that line a street. She buys way too much clothing.
 
   
