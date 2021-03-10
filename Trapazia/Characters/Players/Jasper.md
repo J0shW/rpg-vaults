@@ -1,4 +1,4 @@
-# `fas:User` Jasper Flynt
+# `fas:User` Jasper Flynt  - **Josh**
 ---
 
 ## Description
@@ -16,4 +16,4 @@
 [[Cattlestok]] | [[Adelgate]] | [[Scrivener's Guild]]
 
 ---
-tags: #character, #npc
+tags: #character, #player

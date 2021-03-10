@@ -6,3 +6,6 @@
 
 ## Members
 - [[Jasper]]
+- [[Harper]]
+- [[Izan]]
+- [[Grimsby]]
