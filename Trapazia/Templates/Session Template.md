@@ -1,4 +1,4 @@
-# `fas:PenNib` Session: February 28, 2021
+# `fas:PenNib` Session: {{date:MMMM DD, YYYY}}
 ---
 
 ## 3rd of Birth

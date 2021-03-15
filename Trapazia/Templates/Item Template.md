@@ -1,4 +1,4 @@
-# `fas:ShoppingBag` Item Name
+# `fas:ShoppingBag` {{title}}
 ---
 
 ## Description

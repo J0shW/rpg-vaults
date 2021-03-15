@@ -1,4 +1,4 @@
-# `fas:Building` Building Name
+# `fas:Building` {{title}}
 **Location**: [[Adelgate]]
 
 ---

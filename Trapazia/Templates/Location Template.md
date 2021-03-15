@@ -1,4 +1,4 @@
-# `fas:MapMarkerAlt` Cattlestok
+# `fas:MapMarkerAlt` {{title}}
 ---
 
 ## Description
