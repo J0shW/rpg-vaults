@@ -1,5 +1,5 @@
-# `fas:User` Name
-#npc
+# `fas:User` {{title}}
+---
 
 ## Description
 **Race**: 
@@ -8,3 +8,6 @@
 - 
 ## Locations
 [[Arduth]]
+
+---
+tags: #character, #npc
