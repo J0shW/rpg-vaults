@@ -1,4 +1,4 @@
-# `fas:User` Joffrey a.k.a [[Artem]]
+# `fas:User` Joffrey Steins a.k.a [[Artem]]
 ---
 
 **Race**: Elven
