@@ -10,3 +10,5 @@ Three people are set to be hanged in [[Adelgate]]
 ---
 
 tags: #session
+
+**RP Help!**: [[Jasper Character Inspiration]]
