@@ -9,7 +9,7 @@
 - Wears a Rorschach-type mask that shifts on his face
 - From the city [[Port Valoor]]
 - He likes to travel and perform music. Speak for those that think they aren’t important, give them a voice.
-- A parasitic entity lives inside Izan. 
+- There seems to be 2 beings fighting for control of Izan's body. One named [[Bartollo]], and the other is The Mask that Izan wears.
 
 ## Locations
 [[Port Valoor]] | [[Adelgate]]
