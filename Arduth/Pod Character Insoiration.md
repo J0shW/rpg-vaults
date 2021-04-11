@@ -15,7 +15,7 @@
 - [ ] Ask why my powers would be under control now, after leaving my corner of Ren
 
 #### Family
-- [ ] Not sure
+- [ ] 
 
 #### My Mother
 ### NPC Interaction
