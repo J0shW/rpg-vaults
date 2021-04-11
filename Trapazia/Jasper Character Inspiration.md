@@ -1,4 +1,4 @@
-# `fas:PenNib`Jasper Character Inspiration
+# `fas:PenNib` Jasper Character Inspiration
 ---
 
 [[Jasper]]
@@ -56,8 +56,6 @@
 	- [ ] Is your involvement voluntary or are you under someone's thumb?
 	- [ ] Don't you think it's dangerous?
 
----
-tags: #inspiration
 ### Progress my own story line
 #### The Quill
 - [ ] Go to a library, etc. to find general info on it, and if others exist
@@ -78,3 +76,6 @@ I offer the owner my Calligraphy sign making skills in return for a few coin to 
 Of course while there get a quick interview in with the owner.
 - [ ] Ask for general info on the city
 - [ ] Ask for info regarding the current situation our players are in
+
+---
+tags: #inspiration
