@@ -7,5 +7,5 @@
 ## Members
 - [[Jasper]]
 - [[Harper]]
-- [[Izan]]
+- [[Izen]]
 - [[Grimsby]]

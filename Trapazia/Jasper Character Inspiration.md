@@ -23,7 +23,7 @@
 	- [ ] Have you always had it?
 	- [ ] Where did it come from?
 	- [ ] Can you remove it?
-	- [ ] Maybe ask about [[Bartollo]] if he seems open to discussion.
+	- [ ] Maybe ask about [[Bartolo]] if he seems open to discussion.
 
 #### Interview Harper
 - [ ] Ask about **family**

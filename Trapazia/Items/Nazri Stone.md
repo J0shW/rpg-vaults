@@ -6,7 +6,7 @@
 - The stone fortifies the wielder’s leadership qualities.
 
 ## Owner
-[[Izan]]
+[[Izen]]
 
 ---
 tags: #item, #inventory, #magical

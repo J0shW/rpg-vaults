@@ -1,7 +1,7 @@
 # `fas:PenNib` Session: {{date:MMMM DD, YYYY}}
 ---
 
-## 3rd of Birth
+## 14th of Growth
 
 ### The Failed Hangings
 
