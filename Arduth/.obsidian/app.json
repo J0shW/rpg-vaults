@@ -12,6 +12,13 @@
   ],
   "fileSortOrder": "alphabetical",
   "foldHeading": true,
+  "enabledPlugins": [
+    "table-editor-obsidian",
+    "hotkeysplus-obsidian",
+    "obsidian-icons-plugin",
+    "sliding-panes-obsidian",
+    "obsidian-git"
+  ],
   "showFrontmatter": false,
   "foldIndent": true,
   "showLineNumber": false,
