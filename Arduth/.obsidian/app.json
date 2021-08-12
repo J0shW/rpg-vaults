@@ -1,0 +1,19 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Frostfall",
+    "Kenku",
+    "Arduth",
+    "npc",
+    "Grimsby",
+    "Shabaka",
+    "firebolt"
+  ],
+  "fileSortOrder": "alphabetical",
+  "foldHeading": true,
+  "showFrontmatter": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "communityPluginSortOrder": "release"
+}
