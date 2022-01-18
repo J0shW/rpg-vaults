@@ -33,5 +33,7 @@
   "foldHeading": true,
   "showFrontmatter": false,
   "foldIndent": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
