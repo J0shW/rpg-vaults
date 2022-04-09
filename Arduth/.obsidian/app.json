@@ -15,5 +15,7 @@
   "showFrontmatter": false,
   "foldIndent": true,
   "showLineNumber": false,
-  "communityPluginSortOrder": "release"
+  "communityPluginSortOrder": "release",
+  "legacyEditor": false,
+  "livePreview": true
 }
