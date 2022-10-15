@@ -65,9 +65,12 @@
 	- [ ] Does it know anything about my mother (because I know nothing about her)
 
 #### My Father
-- [ ] Find info on my father's whereabouts
+- [x] Find info on my father's whereabouts
 
 #### My Mother
+- [ ] Who is she
+- [ ] What
+
 ### Interview random NPC's, Businesses, etc.
 #### Offer Calligraphy sign making skills in return for an interview
 Go about the town and ask about businesses around town. 

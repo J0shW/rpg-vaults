@@ -1,1 +1,29 @@
-{"items":[{"type":"file","title":"___Campaign","path":"___General/___Campaign.md"},{"type":"file","title":"Trapazia","path":"Locations/Trapazia.md"},{"type":"file","title":"Player Characters","path":"Characters/Players/Player Characters.md"}]}
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Trapazia",
+      "path": "Locations/Trapazia.md"
+    },
+    {
+      "type": "file",
+      "title": "Player Characters",
+      "path": "Characters/Players/Player Characters.md"
+    },
+    {
+      "type": "file",
+      "title": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "type": "file",
+      "title": "Province of Trapazia",
+      "path": "Images/Province of Trapazia.png"
+    },
+    {
+      "type": "file",
+      "title": "Jasper Character Inspiration",
+      "path": "Jasper Character Inspiration.md"
+    }
+  ]
+}

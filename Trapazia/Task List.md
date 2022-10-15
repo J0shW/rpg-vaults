@@ -1,12 +1,4 @@
 # Task List
-- [x] Give letter to [[Marsden]]
-- [x] Princess [[Xari Fassul]] was almost kidnapped from Port Valoor, thwarted by a group of 4
-- [x] Clear things up with Izen's employers, the Syndicate
-- [x] Find Jasper's Father [[Barret Flint]]
-      -Meeshka told him Izen killed her. 
-      Done: He's staying at Captain's Quarter Inn in Old Port, Port Valoor
-- [x] Put spells in Jasper's Ring of Spell-storing
-
 ##### Oslo
 - [ ] Accept his partnership to join the network of communication
 
@@ -29,12 +21,22 @@
 
 ##### Divine Fragments
 - [ ] Missing Tribe Elder Qwoff ([[Krinqwok]])
+- [ ] Speak with Professor of Portals in Fayrun named Guylar Prez
 Quaff left notes on a map. Has words scrawled on the edges that say "Divine Fragments" and "Children of the Sky".
 - [ ] **Seven locations noted on the map**:
 	- [ ] Jackal Island
 	- [x] Fayrun crossed out, with an arrow pointing to a circle in the [[Pirilago Desert]] - DONE (Scroll in Nazri statue)
-	- [ ] [[Suclidian Maw]]
-	- [ ] [[Xallian Forest]]
-	- [ ] Middle section of [[Adelcrest Forest]] (Where the Child is located) (4/6 fragments)
+	- [ ] Suclidian Maw
+	- [ ] Xallian Forest
+	- [ ] Middle section of [[Adelcrest Forest]] (This is where the Child is located) (We have 4/6 fragments)
 	- [ ] Middle section of the [[Crescent Range]]
 	- [ ] The bay on the southern coast of Trapazia
+
+# Archive
+- [x] Give letter to [[Marsden]]
+- [x] Princess [[Xari Fassul]] was almost kidnapped from Port Valoor, thwarted by a group of 4
+- [x] Clear things up with Izen's employers, the Syndicate
+- [x] Find Jasper's Father [[Barret Flint]]
+      -Meeshka told him Izen killed her. 
+      Done: He's staying at Captain's Quarter Inn in Old Port, Port Valoor
+- [x] Put spells in Jasper's Ring of Spell-storing
