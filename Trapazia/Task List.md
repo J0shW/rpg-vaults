@@ -21,6 +21,17 @@
 - [ ] Use the spell 'Legend Lore' to gain information on a person, place, or object:
 	- [ ] The Mask
 	- [ ] The Quill
-	- [ ] Cassandra Flint
+	- [ ] [[Cassandra Flint]]
+	- [ ] [[Elder Qwoff]]
 
-##### 
+##### Divine Fragments
+- [ ] Missing Tribe Elder Qwoff ([[Krinqwok]])
+Quaff left notes on a map. Has words scrawled on the edges that say "Divine Fragments" and "Children of the Sky".
+- [ ] **Seven locations noted on the map**:
+	- [ ] Jackal Island
+	- [x] Fayrun crossed out, with an arrow pointing to a circle in the [[Pirilago Desert]] - DONE (Scroll in Nazri statue)
+	- [ ] [[Suclidian Maw]]
+	- [ ] [[Xallian Forest]]
+	- [ ] Middle section of [[Adelcrest Forest]] (Where the Child is located) (4/6 fragments)
+	- [ ] Middle section of the [[Crescent Range]]
+	- [ ] The bay on the southern coast of Trapazia
