@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2022-08-24.md",
+                "file": "Quill.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Quill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,16 +164,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "408cab4bed97d3f8",
+  "active": "081e3664ef237038",
   "lastOpenFiles": [
-    "Sessions/2022-08-24.md",
-    "Jasper Character Inspiration.md",
     "Sessions/2022-10-14.md",
+    "Jasper Character Inspiration.md",
+    "Task List.md",
+    "Sessions/2022-08-24.md",
     "Characters/Players/Player Characters.md",
     "Locations/Trapazia.md",
     "___General/___Campaign.md",
     "Images/Province of Trapazia.png",
-    "Task List.md",
     "Sessions/2022-09-12.md",
     "Sessions/2020-09-20.md"
   ]
