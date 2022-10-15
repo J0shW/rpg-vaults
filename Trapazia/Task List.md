@@ -7,6 +7,9 @@
       Done: He's staying at Captain's Quarter Inn in Old Port, Port Valoor
 - [x] Put spells in Jasper's Ring of Spell-storing
 
+##### Oslo
+- [ ] Accept his partnership to join the network of communication
+
 ##### Cassandra Flint
 - [ ] Find out what happened to Jasper's Mother [[Cassandra Flint]]
 	      -She was working on a story about the "The Obsidian Eye" and "The Kings Eye"
@@ -20,7 +23,7 @@
 ##### Legend Lore
 - [ ] Use the spell 'Legend Lore' to gain information on a person, place, or object:
 	- [ ] The Mask
-	- [ ] The Quill
+	- [x] The [[Quill]]
 	- [ ] [[Cassandra Flint]]
 	- [ ] [[Elder Qwoff]]
 
