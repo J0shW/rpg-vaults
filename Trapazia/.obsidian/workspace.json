@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "081e3664ef237038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "325c5224faa4da6a",
             "type": "leaf",
             "state": {
@@ -42,9 +30,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "081e3664ef237038",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Province of Trapazia.png"
+              }
+            }
+          },
+          {
+            "id": "a9acc1d5fa84c04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2022-10-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "067739b444759b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2022-11-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quill.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,20 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "081e3664ef237038",
+  "active": "408cab4bed97d3f8",
   "lastOpenFiles": [
-    "Sessions/2022-10-14.md",
-    "Jasper Character Inspiration.md",
+    "Sessions/2022-11-02.md",
     "Task List.md",
+    "Sessions/2022-10-14.md",
+    "Images/Province of Trapazia.png",
+    "Quill.md",
+    "Jasper Character Inspiration.md",
     "Sessions/2022-08-24.md",
     "Characters/Players/Player Characters.md",
     "Locations/Trapazia.md",
-    "___General/___Campaign.md",
-    "Images/Province of Trapazia.png",
-    "Sessions/2022-09-12.md",
-    "Sessions/2020-09-20.md"
+    "___General/___Campaign.md"
   ]
 }

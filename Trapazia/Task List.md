@@ -1,4 +1,9 @@
 # Task List
+
+## Immediate 
+- [ ] Go to Temple of Nazri
+
+## Ongoing
 ##### Oslo
 - [ ] Accept his partnership to join the network of communication
 
