@@ -52,18 +52,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "067739b444759b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2022-05-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -185,15 +173,15 @@
   },
   "active": "a9acc1d5fa84c04d",
   "lastOpenFiles": [
+    "___General/Deities.md",
+    "Sessions/2022-05-13.md",
+    "Sessions/2022-11-02.md",
     "Task List.md",
     "Images/Province of Trapazia.png",
-    "Sessions/2022-11-02.md",
-    "Sessions/2022-05-13.md",
     "Sessions/2022-10-14.md",
     "Sessions/2022-04-07.md",
     "Jasper Character Inspiration.md",
     "Cassandra Flint.md",
-    "Sessions/2022-03-17.md",
-    "Sessions/2022-02-24.md"
+    "Sessions/2022-03-17.md"
   ]
 }
