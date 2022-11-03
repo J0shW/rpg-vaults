@@ -32,7 +32,7 @@ Quaff left notes on a map. Has words scrawled on the edges that say "Divine Frag
 - [ ] **Seven locations noted on the map**:
 	- [ ] Jackal Island
 	- [x] Fayrun crossed out, with an arrow pointing to a circle in the [[Pirilago Desert]] - DONE (Scroll in Nazri statue)
-	- [ ] Suclidian Maw
+	- [ ] Suclidian Maw - former location of [[Cascardia]]
 	- [ ] Xallian Forest
 	- [ ] Middle section of [[Adelcrest Forest]] (This is where the Child is located) (We have 4/6 fragments)
 	- [ ] Middle section of the [[Crescent Range]]
