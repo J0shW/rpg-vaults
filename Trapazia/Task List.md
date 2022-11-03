@@ -2,6 +2,7 @@
 
 ## Immediate 
 - [ ] Go to Temple of Nazri
+- [x] Research Demon Lords at the Fayrun Archive
 
 ## Ongoing
 ##### Oslo
@@ -26,7 +27,7 @@
 
 ##### Divine Fragments
 - [ ] Missing Tribe Elder Qwoff ([[Krinqwok]])
-- [ ] Speak with Professor of Portals in Fayrun named Guylar Prez
+- [x] Speak with Professor of Portals in Fayrun named Guylar Prez
 Quaff left notes on a map. Has words scrawled on the edges that say "Divine Fragments" and "Children of the Sky".
 - [ ] **Seven locations noted on the map**:
 	- [ ] Jackal Island
@@ -35,7 +36,7 @@ Quaff left notes on a map. Has words scrawled on the edges that say "Divine Frag
 	- [ ] Xallian Forest
 	- [ ] Middle section of [[Adelcrest Forest]] (This is where the Child is located) (We have 4/6 fragments)
 	- [ ] Middle section of the [[Crescent Range]]
-	- [ ] The bay on the southern coast of Trapazia
+	- [ ] The bay on the southern coast of Trapazia near the Bastial Strait
 
 # Archive
 - [x] Give letter to [[Marsden]]
